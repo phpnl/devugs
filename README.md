@@ -23,6 +23,9 @@ PHPAmersfoort:
 ApeldoornDev
 - 2e donderdag van de maand
  
+010PHP (Rotterdam)
+- 2e donderdag van de maand
+ 
 AmsterdamPHP: Geeks & Drinks/Geeks & Games
 - 2e vrijdag van de maand
  
