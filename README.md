@@ -41,6 +41,9 @@ PHP.FRL:
 DomCode
 - Laatste dinsdag van de maand
 
+PHPZwolle:
+- Laatste woensdag van de maand
+
 BredaPHP
 - Tweemaandelijks (in de oneven maanden), op de laatste donderdag van de maand.
 
