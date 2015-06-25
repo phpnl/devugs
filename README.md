@@ -7,6 +7,9 @@ Zet je meetup groep, indien je vaste data hebt hieronder
  
 PHPugle:
 - 1e maandag van de maand
+
+PolderPHP:
+- 1e dinsdag van de maand (gaat 1 september 2015 van start)
  
 PHPTwente:
 - 1e woensdag van de maand
