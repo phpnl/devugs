@@ -1,6 +1,6 @@
 List of all interesting dev usergroups in the Netherlands.
 
-Er is ook een [kalender overzicht](https://www.google.com/calendar/embed?src=services%40atimmer.com&ctz=Europe/Amsterdam ) en een [ical feed](https://www.google.com/calendar/ical/services%40atimmer.com/public/basic.ics).
+Er is ook een [kalender overzicht](https://calendar.google.com/calendar/embed?src=kokfi6g5vpl9cn7589gruotd5s%40group.calendar.google.com&ctz=Europe/Amsterdam ) en een [ical feed](https://calendar.google.com/calendar/ical/kokfi6g5vpl9cn7589gruotd5s%40group.calendar.google.com/public/basic.ics).
 
 Zet je meetup groep, indien je vaste data hebt hieronder
 (in volgorde graag):
