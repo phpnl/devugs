@@ -17,9 +17,6 @@ PHPTwente:
 GroningenPHP
 - 1e donderdag van de maand
  
-SweetlakePHP
-- 1e vrijdag van de maand
- 
 PHPAmersfoort:
 - 2e dinsdag van de maand
  
