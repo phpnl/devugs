@@ -47,8 +47,5 @@ DomCode
 PHPZwolle:
 - Laatste woensdag van de maand
 
-BredaPHP
-- Tweemaandelijks (in de oneven maanden), op de laatste donderdag van de maand.
-
 VechtdalDev (vh. HardenbergPHP)
 - Elke laatste donderdag van de 2e maand van het kwartaal (4x per jaar)
