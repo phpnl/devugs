@@ -1,48 +1,42 @@
-List of all interesting dev usergroups in the Netherlands.
+# List of all interesting dev usergroups in the Netherlands.
 
 Er is ook een [kalender overzicht](https://calendar.google.com/calendar/embed?src=kokfi6g5vpl9cn7589gruotd5s%40group.calendar.google.com&ctz=Europe/Amsterdam ) en een [ical feed](https://calendar.google.com/calendar/ical/kokfi6g5vpl9cn7589gruotd5s%40group.calendar.google.com/public/basic.ics).
 
-Zet je meetup groep, indien je vaste data hebt hieronder
-(in volgorde graag):
- 
-PHPugle:
+Zet je meetup groep, indien je vaste data hebt hieronder (in volgorde graag):
+
+[PHPugle](https://www.meetup.com/nl-NL/PHPugle/):
 - 1e maandag van de maand
 
-PolderPHP:
-- 1e dinsdag van de maand (gaat 1 september 2015 van start)
- 
-PHPTwente:
+[PHPTwente](https://www.meetup.com/nl-NL/PHPTwente/):
 - 1e woensdag van de maand
- 
-GroningenPHP
+
+[GroningenPHP](https://www.meetup.com/nl-NL/groningenphp/):
 - 1e donderdag van de maand
- 
-PHPAmersfoort:
+
+[PHPAmersfoort](https://www.meetup.com/nl-NL/PHPAmersfoort/):
 - 2e dinsdag van de maand
- 
-ApeldoornDev
+
+[ApeldoornDev](https://www.meetup.com/nl-NL/Apeldoorn-Webdevs/):
 - 2e donderdag van de maand
- 
-010PHP (Rotterdam)
+
+[010PHP](https://www.meetup.com/nl-NL/010PHP/) (Rotterdam):
 - 2e donderdag van de maand
- 
-AmsterdamPHP: Geeks & Drinks/Geeks & Games
-- 2e vrijdag van de maand
- 
-NijmegenPHP
+
+[NMGN.tech](https://www.meetup.com/nl-NL/NMGNtech/):
 - 3e woensdag van de maand
- 
-AmsterdamPHP
+
+[AmsterdamPHP](https://www.meetup.com/nl-NL/AmsterdamPHP/):
 - 3e donderdag van de maand
- 
-PHP.FRL:
+
+[PHP.FRL](https://www.meetup.com/nl-NL/PHP-FRL/):
 - 1-na-laatste dinsdag van de maand
- 
-DomCode
+
+[DomCode](https://www.meetup.com/nl-NL/domcode/):
 - Laatste dinsdag van de maand
 
-PHPZwolle:
-- Laatste woensdag van de maand
+[PHP-Zwolle](https://www.meetup.com/nl-NL/PHP-Zwolle/):
+- Laatste donderdag van de maand (met uitzonderingen)
 
-VechtdalDev (vh. HardenbergPHP)
+[VechtdalDev](https://www.meetup.com/nl-NL/VechtdalDev/) (vh. HardenbergPHP):
 - Elke laatste donderdag van de 2e maand van het kwartaal (4x per jaar)
+
